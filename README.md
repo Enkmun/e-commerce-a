@@ -28,3 +28,11 @@ https://sequelize.org/docs/v6/
 https://sequelize.org/docs/v6/core-concepts/model-querying-basics/
 ```
 ## Video
+
+
+https://github.com/Enkmun/e-commerce-a/assets/147563607/c196d8be-acd4-4497-b797-c19ede6acca3
+
+
+
+https://github.com/Enkmun/e-commerce-a/assets/147563607/720b5036-96bf-40ce-ac11-91e5ace0d7da
+
